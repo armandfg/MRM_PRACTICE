@@ -1,0 +1,66 @@
+
+                    <!-- PREHEADER //////////////////////////// -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#000000;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                 <!-- SPACER  -->
+                                <tr><td height="28" valign="top" class="topbar_spacerh_1"></td></tr>
+                                <!-- PADDING LEFT -->
+                                <td valign="top" class="topbar_spacerw_1"></td>
+                                <!-- BUICK LOGO -->
+                                <td valign="top" align="left" class="hide_on_mobile"><img src="images/gmc_logo_desktop.jpg" alt="GMC"></td>
+                                <td valign="top" align="left" class="mobile_element"><img src="images/gmc_logo_mobile.jpg" alt="GMC"></td>
+                                <!-- SPACER AFTER LOGO -->
+                                <td width="230" valign="top"></td>
+                                <!-- COPY DESKTOP-->
+                                <td valign="middle" align="left"><img src="images/top_bar_copy.jpg" alt="A special offer, just for you." class="hide_on_mobile"></td>
+                                
+                                <tr>
+                                    
+                                    <td valign="middle" align="left" class="full_width_mobile"><img src="images/top_bar_copy.jpg" alt="A special offer, just for you." class="mobile_element"></td>
+                                </tr>
+                                <!-- SPACER bottom  -->
+                                <tr><td height="18" valign="top" class="topbar_spacerh_2 full_width_mobile"></td></tr> 
+                            </table>    
+
+       
+                            
+                        </td>
+                        
+                    </tr>
+
+                       <!-- SPACER  -->
+                       <tr><td height="28" valign="top" class="topbar_spacerh_1"></td></tr>
+                       <!-- LOGO DESKTOP-->
+                       <tr>
+                           <!-- PADDING LEFT -->
+                           <td width="18" valign="top" class="hide_on_mobile"></td>
+                           <!-- BUICK LOGO -->
+                           <td valign="top" align="left" class="hide_on_mobile"><img src="images/gmc_logo_desktop.jpg" alt="GMC"></td>
+                           <td width="230" valign="top" class="hide_on_mobile"></td>
+                           <td valign="middle" align="left" class="hide_on_mobile"><img src="images/top_bar_copy.jpg" alt="A special offer, just for you."></td>
+                       </tr>
+                       <!-- LOGO MOBILE -->
+                       <tr>
+                           <td width="16" valign="top" class="mobile_element""></td>
+                           <td valign="top" align="left" class="mobile_element"><img src="images/gmc_logo_mobile.jpg" alt="GMC"></td>
+                       </tr>
+                       <!--SPACER  -->
+                       <tr><td height="15" valign="top" class="topbar_spacerh_3"></td></tr>
+                       <!-- COPY -->
+                       <tr>
+                           <td valign="middle" align="left" class="full_width_mobile"><img src="images/top_bar_copy.jpg" alt="A special offer, just for you." class="mobile_element"></td>
+                       </tr>
+             
+                       <!-- SPACER bottom  -->
+                       <tr><td height="18" valign="top" class="topbar_spacerh_2 full_width_mobile"></td></tr> 
+
+
+<!-- TEMPLATE CONTENT//////////////////////////// -->
+<tr>
+    <td align="center" valign="top" style="background-color:#000000;">
+        <table border="0" width="100%" cellspacing="0" cellpadding="0">
+        </table>
+    </td>        
+</tr>
+<!-- TEMPLATE CONTENT END*************************** -->

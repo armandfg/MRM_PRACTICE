@@ -1,0 +1,707 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+    <title>BUICK</title>
+
+
+    <style type="text/css">
+        @font-face {font-family: 'Muli'; src: local("Muli"), url('http://www.gmc.com/etc/clientlibs/gmc/head/css/fonts/muli-webfont.woff2') format('woff2') ;font-weight: 400;font-style: normal;}	
+		@font-face {font-family: 'Muli'; src: local("Muli"), url('http://www.gmc.com/etc/clientlibs/gmc/head/css/fonts/muli-bold-webfont.woff2') format('woff2') ;font-weight: 500;font-style: bold;}	
+		body { width:100%!important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; padding:0; font-family: 'Muli', Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+
+            /* Client specific styles. */
+            /* Force Outlook to provide a "view in browser" message */
+            #outlook a{padding:0;}
+            /* Force to display emails at full width */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;}
+            /* Force to display normal line spacing */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} 
+            /* Prevent WebKit and Windows mobile changing default text sizes */
+			body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} 
+            /* Remove spacing between tables in Outlook 2007 and up */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;}
+            /* Allow smoother rendering of resized image in Internet Explorer */
+			img{-ms-interpolation-mode:bicubic;} 
+			/* Reset styles. */
+			body{margin:0;padding:0;}
+            img{display:block;border:0;height:auto;line-height:100%;outline:none;text-decoration:none;}
+            table{border-collapse:collapse !important;}
+            body,#bodyTable,#bodyCell{height:100% !important;margin:0;padding:0;width:100% !important;}
+            a{text-decoration: none;}
+            sup {line-height: 0; font-size: 70%; vertical-align: top; mso-text-raise:60%;}
+
+            /* Custom classes starts here. */
+            html{background-color: #cccccc;}
+            .wrapper{width:600px;max-width:600px;}
+
+            .mobile_element {
+                display: none !important;
+                height: "0px" !important; 
+                line-height: 0 !important;
+            }
+            .mobile_element_table { display: none !important;height: "0px" !important; line-height: 0 !important; }
+            .topbar_spacerw_1 { width: 25px}
+            /* HYPER LINK WHITE */
+            .appleLinkswhite a {color:#ffffff !important; text-decoration: none !important; }
+            /* Mobile layout. */
+            @media (max-width: 599px){
+                /* Prevent Webkit platforms from changing default text sizes */
+                body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;}
+                /* Prevent iOS Mail from adding padding to the body */
+                body{width:100% !important; min-width:100% !important;}
+                /* br{display:none;} */
+
+                /* Your own classes. */
+                .wrapper{max-width:320px;width:100%;}
+                .full-width_mobile{width:100% !important;}
+                .full-width-img{max-width:100% !important;width:100% !important;}
+                .stack-on-mobile{display:block !important;width:100% !important;height:auto !important;}
+                
+                /* TOGGLE */
+
+                .hide_on_mobile { display: none !important; height: "0px" !important; line-height: 0 !important; }
+                .mobile_element { display: block !important;height: "0px" !important; line-height: 0 !important; }
+                .mobile_element_table { display: table-cell !important;height: "0px" !important; line-height: 0 !important; }
+                
+                /* SPACERS TOP BAR MOBILE ADJUSTMENT */
+                .topbar_padding_0 {padding-bottom: 24px !important;}
+                .topbar_padding_1 {padding: 23px 0 0 18px !important;}
+                .padding_right_1 {padding-right: 18px !important;}
+                .padding_left_1 { padding-left: 18px !important;}
+                .padding_left_2 { padding-left: 18px !important;}
+                .padding_left_3 { padding-left: 18px !important;}
+
+                .bottom_padding_1 {padding-bottom: 22px !important;}
+                /*BOTTOM AREA  */
+               
+                .padding_top_2 {padding-top: 10px !important;}
+
+                .spacer_bottom_icons {padding-bottom: 29px !important;}
+                .spacer_bottom_icons_2 {padding-bottom: 46px !important;}
+                .spacer_bottom_jelly_0 {padding-bottom: 27px !important;}
+                .spacer_bottom_jelly_2  {padding-bottom: 20px !important;}
+                .spacer_footer_bottom_0 {padding-bottom: 50px !important;}
+                .spacer_footer_bottom_1 {padding-bottom: 21px !important;}
+                .spacer_footer_bottom_2 {padding-bottom: 46px !important;}
+                /* SOCIAL END */
+                .padding_left_social_mobile {padding-left: 41px !important;}
+                
+                /* FOOTER MOBILE TEXT */
+                .padding_disclaimer_left_mobile {padding-left: 16px !important;}
+                .padding_disclaimer_right_mobile {padding-right: 16px !important;}
+                /* JELLY AREA */
+                .content_320 { width:320px !important;}
+            }
+    </style>
+</head>
+
+<body style="padding: 0px; margin: 0 auto;">
+    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <!-- PARENT TABLE -->
+                <table border="0" align="center" cellspacing="0" cellpadding="0" width="600" class="wrapper"
+                    style="margin: 0 auto; background-color: #ffffff;">
+
+                    <!-- PREHEADER TOP BAR BLACK//////////////////////////// -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#000000;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <!-- TOPBAR  -->
+                                <tr>
+                                    <!-- GMC DESKTOP & MOBILE -->
+                                    <!-- 18 desktop 12 mobile -->
+                                    <td valign="top" align="left" style="padding: 27px 0 0 25px;" class="hide_on_mobile">
+                                        <a description="A_GMC_LOGO" CAT1="GMC_Logo" CAT2="GMC_Logo" href="https://www.gmc.com/?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                            <img src="images/gmc_logo_desktop.jpg" width="148" alt="GMC">        
+                                        </a>                    
+                                    </td>
+                                    
+                                    <td valign="top" align="left" style="padding: 23px 0 0 18px;" class="mobile_element">
+                                        <a description="A_GMC_LOGO" CAT1="GMC_Logo" CAT2="GMC_Logo" href="https://www.gmc.com/?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                            <img src="images/gmc_logo_mobile.jpg" alt="GMC">
+                                        </a>
+                                    </td>
+                                    <!-- TOP BAR COPY DESKTOP -->
+                                    <td valign="middle" align="right" class="hide_on_mobile" style="padding:29px 25px 0 0;"><img src="images/top_bar_copy.jpg" width="170" alt="A special offer, just for you."></td>
+                                </tr>
+                                <!-- COPY MOBILE -->
+                                <tr>
+                                    <td valign="middle" align="left" style="padding: 15px 0 0 18px" class="mobile_element"><img src="images/top_bar_copy.jpg" width="170" alt="A special offer, just for you."></td>
+                                </tr>
+                                <!-- SPACER -->
+                                <tr><td valign="top" align="left" style="padding-bottom: 18px" class="topbar_padding_0"></td></tr>
+
+                            </table>    
+                        </td>  
+                    </tr>
+                     <!-- PREHEADER TOP BAR BLACK END*************************** -->
+                
+                    <!-- MASTHEAD//////////////////////////// -->
+                    
+                     <tr>
+                        <td align="center" valign="top" style="background-color:#ffffff;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <!-- MASTHEADIMAGE -->
+                                <tr>
+                                    <td valign="top" align="left" style="padding: 0 0 0 0" class="hide_on_mobile">
+                                        <a description="M_IMG_WHOLE" CAT1="Masthead" CAT2="Woman_with_phone" href="https://exclusivegmcoffer.com/ajs/init/activate/201248OS/INVITATION">
+                                            <img src="images/masthead_desktop.jpg" width="600" alt="TBD">
+                                        </a>
+                                    </td>
+                                    <td valign="top" align="left" style="padding: 0 0 0 0" class="mobile_element">
+                                        <a description="M_IMG_WHOLE" CAT1="Masthead" CAT2="Woman_with_phone" href="https://exclusivegmcoffer.com/ajs/init/activate/201248OS/INVITATION">
+                                            <img src="images/masthead_mobile.jpg" width="320" alt="TBD">
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                            </td>        
+                     </tr>
+
+                     <!-- MASTHEAD END*************************** -->
+
+                    <!-- BODY CONTENT//////////////////////////// -->
+                    <!-- HEADLINE COPY -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#ffffff;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <!-- SPACER -->
+                                <tr><td valign="top" align="left" style="padding-top: 30px" class="content_spacer_1"></td></tr>
+                                
+                                <!-- HEADLINE COPY DESKTOP AND MOBILE -->
+                                <tr>
+                                    <!-- SPACER LEFT -->
+                                    <td valign="top" align="left" style="padding-left: 19px" class="padding_left_1"></td>
+                                    <!-- SPACER LEFT END -->
+
+                                    <!-- HEADLINE COPY DESKTOP AND MOBILE -->
+                                    <td valign="top" align="left" class="hide_on_mobile">
+                                        <a description="MB_TXT_HEADLINE" CAT1="Headline" CAT2="Our_Gift_to_you" href="https://exclusivegmcoffer.com/ajs/init/activate/201248OS/INVITATION">
+                                            <img src="images/headline_copy_1_desktop.jpg" width="381" alt="THANK YOU FOR BEING A LOYAL CUSTOMER. ENJOY REMOTE ACCESS ON US">
+                                        </a>
+                                    </td>
+                                    <td valign="top" align="left" class="mobile_element">
+                                        <a description="MB_TXT_HEADLINE" CAT1="Headline" CAT2="Our_Gift_to_you" href="https://exclusivegmcoffer.com/ajs/init/activate/201248OS/INVITATION">
+                                            <img src="images/headline_copy_1_mobile.jpg" width="286" alt="THANK YOU FOR BEING A LOYAL CUSTOMER. ENJOY REMOTE ACCESS ON US">
+                                        </a>
+                                    </td>
+                                </tr>
+                                
+                            </table>
+                        </td>        
+                    </tr>
+                    <!-- CONTENT COPY | LIVE TEXT -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#ffffff;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <!-- SPACER -->
+                                <tr><td valign="top" align="left" style="padding-top: 30px" class="padding_top_2"></td></tr>
+                                <td valign="top" align="left" style="padding-left: 25px" class="padding_left_2"></td>
+                                <!-- END SPACER -->
+                                <td valign="top" style="font-family: Muli, Arial, Helvetica, sans-serif; color: #3f3f38; font-size: 16px; line-height: 1.5;">
+                                    <span style="color: #ca0088">[Name],</span>
+                                    <span>to thank you for being a valued
+                                          <span style="color: #ca0088">[Model Year]</span>
+                                          GMC <span style="color: #ca0088">[Model] </span>
+                                          owner,we’re offering you 30 free days of the GMC Remote Access plan<sup style="line-height: 1;">†</sup>
+                                          — perfect for this holiday season.
+                                          With the Remote Access plan, you’ll be able to execute vehicle commands remotely with the myGMC Mobile App.<sup style="line-height: 1;">^</sup>                                  
+                                          Warm up your vehicle and check its gas level before you head out, or unlock your doors to make loading gifts easier — all from your smartphone. This is a limited-time offer, so be sure to activate before midnight (EST) on December 24, 2020.
+                                    </span>
+                                </td>
+                                <!-- SPACER PADDING RIGHT -->
+                                <td valign="top" align="right" style="padding-right: 22px" class="padding_left_2"></td>
+                                <!-- SPACER -->
+                                <tr><td valign="top" align="left" style="padding-top: 30px" class="padding_top_3"></td></tr>
+                            </table>
+                        </td>        
+                    </tr>
+                    <!-- BODY CONTENT END*************************** -->
+                    <!-- CTA CONTENT//////////////////////////// -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#ffffff;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <!-- CTA DESKTOP AND MOBILE -->
+                                <tr>
+                                <td valign="top" align="center" class="hide_on_mobile">
+                                    <a description="MB_BTN_ACTIVATE_OFFER" CAT1="CTA" CAT2="Activate_your_offer" href="https://exclusivegmcoffer.com/ajs/init/activate/201248OS/INVITATION">
+                                        <img src="images/cta_desktop.jpg" width="258" alt="ACTIVATE YOUR OFFER">
+                                    </a>
+                                </td>
+                                <td valign="top" align="center" class="mobile_element">
+                                    <a description="MB_BTN_ACTIVATE_OFFER" CAT1="CTA" CAT2="Activate_your_offer" href="https://exclusivegmcoffer.com/ajs/init/activate/201248OS/INVITATION">
+                                        <img src="images/cta_mobile.jpg" width="285" alt="ACTIVATE YOUR OFFER">
+                                    </a>
+                                </td>
+                                </tr>
+                                <!-- SPACER -->
+                                <tr><td valign="top" align="left" style="padding-bottom: 35px" class="cta_bottom_padding_0"></td></tr>
+                            </table>
+                        </td>        
+                    </tr>
+                    <!-- CTA CONTENT END*************************** -->
+
+                    <!-- BOTTOM CONTENT COPY//////////////////////////// -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#ffffff;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td valign="top" align="left" style="padding-left: 25px" class="padding_left_3"></td>
+
+                                <td valign="top" style="font-family: Muli, Arial, Helvetica, sans-serif; color: #3f3f38; font-size: 16px; line-height: 1.5;">
+                                    <span>If you don't have it already, you'll need to download the myGMC Mobile App from your smartphone's app store: </span>
+                                   
+                                </td>
+                                
+                                <!-- SPACER PADDING RIGHT -->
+                                <td valign="top" align="right" style="padding-right: 22px" class="padding_right_1"></td>
+                            </tr>
+                                <!-- SPACER BOTTOM-->
+                                <tr><td valign="top" align="left" style="padding-bottom: 0px" class="bottom_padding_1"></td></tr>
+                            </table>
+                        </td>        
+                    </tr>
+                    <!-- BOTTOM CONTENT COPY END*************************** -->
+
+                    <!-- DOWNLOAD ICONS CONTENT//////////////////////////// -->
+                    <tr>
+                        <td width="100%" align="center">
+                            <table class="content_320" cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#ffffff" style="table-layout: fixed;">
+                                <tr>
+									<td class="" width="100%" align="center" style="padding: 25px 0 0 0 ;">
+										<table cellpadding="0" cellspacing="0" border="0" width="312" align="center">
+                                            <tr>
+                                                <td valign="top" align="center" class="hide_on_mobile" style="padding: 0 43px 0 0;">
+                                                    <a description="MB_BTN_APPLE" CAT1="App_Store" CAT2="App_Store_CTA" href="https://apps.apple.com/us/app/mygmc/id399408958">
+                                                        <img src="images/ios_download_desktop.jpg" alt="APPLE APP STORE">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="center" class="hide_on_mobile" style="padding: 0 0 0 0;">
+                                                    <a description="MB_BTN_GOOGLE" CAT1="Google_Play" CAT2="Gogle_Play_CTA" href="https://play.google.com/store/apps/details?id=com.gm.gmc.nomad.ownership">
+                                                        <img src="images/playstore_download_desktop.jpg" alt="GOOGLE PLAY">
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>            
+                                <!-- MOBILE BUTTONS -->
+
+                                <tr>
+                                    <td valign="top" align="center" class="mobile_element" style="padding: 0 0 0 0;">
+                                        <a description="MB_BTN_GOOGLE" CAT1="Google_Play" CAT2="Gogle_Play_CTA" href="https://play.google.com/store/apps/details?id=com.gm.gmc.nomad.ownership">
+                                            <img src="images/playstore_download_mobile.jpg" alt="GOOGLE PLAY">
+                                        </a>
+                                    </td>
+                                    <!-- SPACER BOTTOM-->
+                                    <tr><td valign="top" align="left" style="padding-bottom: 10px" class="mobile_element"></td></tr>
+                                    <!--  -->
+                                    <td valign="top" align="center" class="mobile_element" style="padding: 0 0 0 0;">
+                                        <a description="MB_BTN_APPLE" CAT1="App_Store" CAT2="App_Store_CTA" href="https://apps.apple.com/us/app/mygmc/id399408958">
+                                            <img src="images/ios_download_mobile.jpg" alt="APPLE APP STORE">
+                                        </a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- DOWNLOAD ICONS CONTENT END*************************** -->
+                   
+
+                     <!-- SPACERS BOTTOM AREA //////////////////////////// -->
+                        <!-- SPACER BOTTOM-->
+                        <tr><td valign="top" align="left" style="padding-bottom: 35px" class="spacer_bottom_icons"></td></tr>
+                        <!--SPACER BLACK LINE -->
+                        <tr><td height="1" valign="top" style="background-color: #000000;"></td></tr>
+                        <!-- SPACER BOTTOM-->
+                        <tr><td valign="top" align="left" style="padding-bottom: 40px" class="spacer_bottom_icons_2"></td></tr>
+                        <!-- PARENT TABLE END -->
+                    <!-- SPACERS END*************************** -->
+
+
+                    <!-- BOTTOM CONTENT 1//////////////////////////// -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#ffffff;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <td valign="top" align="center" class="hide_on_mobile" style="padding: 0 0 0 0;">
+                                    <img src="images/explore_gmc_copy_desktop.jpg" alt="EXPLORE THE GMC FAMILY">
+                                </td>
+                                <td valign="top" align="center" class="mobile_element" style="padding: 0 0 0 0;">
+                                    <img src="images/explore_gmc_copy_mobile.jpg" alt="EXPLORE THE GMC FAMILY">
+                                </td>
+                                <!-- SPACER BOTTOM-->
+                                <tr><td valign="top" align="left" style="padding-bottom: 40px" class="spacer_bottom_jelly_0"></td></tr>
+
+                            </table>
+                        </td>        
+                    </tr>
+                    <!-- TEMPLATE CONTENT END*************************** -->
+
+
+                    <!-- JELLY BEAN AREA//////////////////////////// -->
+                    <tr>
+                        <td width="100%" align="center">
+                            <table class="content_320" cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#ffffff" style="table-layout: fixed;">
+                                <tr>
+									<td class="" width="100%" align="left">
+										<table cellpadding="0" cellspacing="0" border="0" align="left">
+                                            <!-- JELLY ROW 1 -->
+                                            <tr>
+                                                <!-- DESKTOP JELLIES -->
+                                                <td valign="top" align="left" class="hide_on_mobile" style="padding: 0 0 0 30px;">
+                                                    <a description="SC_IMG_TERRAIN" CAT1="Jellybeans-_Terrain" CAT2="Terrain" href="https://www.gmc.com/suvs/previous-year/terrain?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly1_desktop.jpg" alt="TERRAIN">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left" class="hide_on_mobile" style="padding: 0 0 0 64px;">
+                                                    <a description="SC_IMG_ACADIA" CAT1="Jellybeans-_Acadia" CAT2="Acadia" href="https://www.gmc.com/suvs/previous-year/acadia?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly2_desktop.jpg" alt="ACADIA">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left" class="hide_on_mobile" style="padding: 0 0 0 55px;">
+                                                    <a description="SC_IMG_YUKON" CAT1="Jellybeans-_Yukon" CAT2="Yukon" href="https://www.gmc.com/suvs/previous-year/yukon?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly3_desktop.jpg" alt="YUKON">
+                                                    </a>
+                                                </td>
+                                               <!-- JELLY MOBILE 1 -->
+                                                <td valign="top" align="left" class="mobile_element_table" style="padding: 3px 0 0 44px;">
+                                                    <a description="SC_IMG_TERRAIN" CAT1="Jellybeans-_Terrain" CAT2="Terrain" href="https://www.gmc.com/suvs/previous-year/terrain?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly1_mobile.jpg" alt="TERRAIN">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left" class="mobile_element_table" style="padding: 0 0 0 26px;">
+                                                    <a description="SC_IMG_ACADIA" CAT1="Jellybeans-_Acadia" CAT2="Acadia" href="https://www.gmc.com/suvs/previous-year/acadia?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly2_mobile.jpg" alt="ACADIA">
+                                                    </a>
+                                                </td>
+
+                                            </tr>
+                                           
+                                            <!-- SPACER BOTTOM-->
+                                            <tr><td valign="top" align="left" style="padding-bottom: 22px" class="spacer_bottom_jelly_1"></td></tr>
+                                             <!-- JELLY ROW 2 -->
+                                            <tr>
+                                                <!-- DESKTOP JELLIES -->
+                                                <td valign="top" align="left" class="hide_on_mobile" style="padding: 0 0px 0 25px;">
+                                                    <a description="SC_IMG_CANYON" CAT1="Jellybeans-_Canyon" CAT2="Canyon" href="https://www.gmc.com/trucks/previous-year/canyon?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly4_desktop.jpg" alt="CANYON">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left" class="hide_on_mobile" style="padding: 0 0 0 61px;">
+                                                    <a description="SC_IMG_SIERRA" CAT1="Jellybeans-_Sierra" CAT2="Sierra" href="https://www.gmc.com/trucks/previous-year/sierra/1500?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly5_desktop.jpg" alt="SIERRA">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left" class="hide_on_mobile" style="padding: 0 0 0 54px;">
+                                                    <a description="SC_IMG_SIERRA_HD" CAT1="Jellybeans-_Sierra_HD_" CAT2="Sierra_HD_" href="https://www.gmc.com/trucks/previous-year/sierra/2500hd-3500hd?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly6_desktop.jpg" alt="SIERRA HEAVY DUTY">
+                                                    </a>
+                                                </td>
+                                                <!-- JELLY MOBILE ROW 2 -->
+                                                <td valign="top" align="left" class="mobile_element_table" style="padding: 4px 0 0 38px;">
+                                                    <a description="SC_IMG_YUKON" CAT1="Jellybeans-_Yukon" CAT2="Yukon" href="https://www.gmc.com/suvs/previous-year/yukon?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly3_mobile.jpg" alt="YUKON">
+                                                    </a>
+                                                </td>
+                                                
+                                                <td valign="top" align="left" class="mobile_element_table" style="padding: 4px 0 0 20px;">
+                                                    <a description="SC_IMG_CANYON" CAT1="Jellybeans-_Canyon" CAT2="Canyon" href="https://www.gmc.com/trucks/previous-year/canyon?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly4_mobile.jpg" alt="CANYON">
+                                                    </a>
+                                                </td>
+
+                                            </tr>
+                                             <!-- SPACER BOTTOM-->
+                                             <tr><td valign="top" align="left" style="padding-bottom: 22px" class="mobile_element"></td></tr>
+                                             <!-- JELLY MOBILE ROW 3 -->
+                                            <tr>
+                                                <td valign="top" align="left" class="mobile_element_table" style="padding: 0 0 0 36px;">
+                                                    <a description="SC_IMG_SIERRA" CAT1="Jellybeans-_Sierra" CAT2="Sierra" href="https://www.gmc.com/trucks/previous-year/sierra/1500?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly5_mobile.jpg" alt="SIERRA">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left" class="mobile_element_table" style="padding: 0 0 0 15px;">
+                                                    <a description="SC_IMG_SIERRA_HD" CAT1="Jellybeans-_Sierra_HD_" CAT2="Sierra_HD_" href="https://www.gmc.com/trucks/previous-year/sierra/2500hd-3500hd?evar36=<DI_TRACKING_CODE/>_<DI_CATALOG_ID/>">
+                                                        <img src="images/jelly6_mobile.jpg" alt="SIERRA HEAVY DUTY">
+                                                    </a>
+                                                </td>
+                                            </tr>
+
+                                            <!-- END  DESKTOP -->
+                                            <!-- SPACER BOTTOM-->
+                                            <tr><td valign="top" align="left" style="padding-bottom: 57px" class="spacer_bottom_jelly_2"></td></tr>
+                                        </table>
+                                    </td>
+                                </tr>            
+
+                            </table>
+                        </td>
+                    </tr>
+                    <!-- JELLY BEAN AREA END//////////////////////////// -->
+
+
+                    <!-- FOOTER AREA START//////////////////////////// -->
+                    <tr><td>
+                     <!-- SPACER BOTTOM-->
+                     <tr><td valign="top" align="left" style="padding-bottom: 44px; background-color: #000000;" class="spacer_footer_bottom_0"></td></tr>
+                    <!-- EXPLORE COPY CONTENT//////////////////////////// -->
+                    <tr>
+                        <td align="center" valign="top" style="background-color:#000000;">
+                            <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                <!-- CTA DESKTOP AND MOBILE -->
+                                <tr>
+                                <td valign="top" align="center" class="hide_on_mobile">
+                                    
+                                        <img src="images/join_community_copy.jpg" width="207" alt="JOIN OUR COMMUNITY">
+                                    
+                                </td>
+                                <td valign="top" align="center" class="mobile_element">
+                                    
+                                        <img src="images/join_community_copy_mobile.jpg" width="170" alt="JOIN OUR COMMUNITY">
+                                    
+                                </td>
+                                </tr>
+                                <!-- SPACER -->
+                                <tr><td valign="top" align="left" style="padding-bottom: 16px" class="spacer_footer_bottom_1"></td></tr>
+                            </table>
+                        </td>        
+                    </tr>
+                    <!-- EXPLORE END*************************** -->
+
+                    <!-- SOCIAL ICONS CONTENT//////////////////////////// -->
+                    <tr>
+                        <td width="100%" align="center">
+                            <table class="content_320" cellpadding="0" cellspacing="0" border="0" width="100%" align="center" bgcolor="#000000" style="table-layout: fixed;">
+                                <tr>
+                                    <td class="" width="100%" align="left">
+                                        <table cellpadding="0" cellspacing="0" border="0" align="left">
+                                            <tr>
+                                                <!-- PADDING LEFT SOCIAL-->
+                                                <td style="padding-left: 181px; background-color: #000000;" valign="top" class="padding_left_social_mobile"></td>
+                                                <!-- SOCIAL ICONS -->
+                                                <td valign="top" align="left"  style="padding: 0 23px 0 0px;">
+                                                    
+                                                    <a description="F_IMG_FB" CAT1="Social_Icon_Facebook" CAT2="Facebook" href="https://www.facebook.com/gmc/">
+                                                        <img src="images/fb.jpg" alt="Facebook">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left"  style="padding: 0 23px 0 0px;">
+                                                    <a description="F_IMG_INST" CAT1="Social_Icon_Instagram" CAT2="Instagram" href="https://www.instagram.com/gmc/?hl=en">
+                                                        <img src="images/inst.jpg" alt="Instagram">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left"  style="padding: 0 23px 0 0px;">
+                                                    <a description="F_IMG_TWTR" CAT1="Social_Icon_Twitter" CAT2="Twitter" href="https://twitter.com/gmc?lang=en">
+                                                        <img src="images/tw.jpg" alt="Twitter">
+                                                    </a>
+                                                </td>
+                                                <td valign="top" align="left"  style="padding: 0 0 0 0px;">
+                                                    <a description="F_IMG_YT" CAT1="Social_Icon_You_Tube" CAT2="You_Tube" href="https://www.youtube.com/user/GMC">
+                                                        <img src="images/yt.jpg" alt="Youtube">
+                                                    </a>
+                                                </td>                  
+                                            </tr>
+                                        
+                                        </table>
+                                    </td>
+                                </tr>            
+
+                            </table>
+                        </td>
+                    </tr>
+                    
+                    <!-- SOCIAL ICONS END*************************** -->
+
+
+                 <!-- SPACE -->
+                 <tr><td style="padding-bottom: 30px; background-color: #000000;" valign="top" class="spacer_footer_bottom_2"></td></tr>
+
+                <!-- DETAILS -->
+                <tr>
+                    <td valign="top" align="center">
+                        <table border="0" width="100%" cellspacing="0" cellpadding="0" style="background-color: #000000;">
+                            <!-- DISCLAIMER LINE 1 -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    <span style="color: #ffffff" class="appleLinkswhite">&#8224; Offer must be redeemed by midnight, EST 12/24/20. Remote Access Plan does not include emergency services. Service availability, features and functionality are subject to limitations and vary by vehicle, device, location and active service plan. Device data connection is required. Lock/unlock feature requires automatic locks. Remote start requires GM factory-installed and enabled remote start system. See onstar.com for details and limitations.</span>
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 14px; background-color: #000000;" valign="top"></td></tr>
+
+                            <!-- DISCLAIMER LINE 2 -->
+                            <tr>                    
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Muli, Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    <span style="color: #ffffff" class="appleLinkswhite">^ Available on select Apple and Android devices. Service availability, features and functionality vary by vehicle, device and the plan you are enrolled in. Terms apply. Device data connection required. See onstar.com for details and limitations.</span>
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+
+                              <!-- SPACE -->
+                              <tr><td style="padding-top: 14px; background-color: #000000;" valign="top"></td></tr>
+
+
+                            <!-- DISCLAIMER LINE 3 -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    <span style="color: #ffffff" class="appleLinkswhite">&#167 Available on select Apple and Android devices. Service availability, features and functionality vary by vehicle, device and the plan you are enrolled in. Terms apply. Device data connection required. See onstar.com for details and limitations.</span>
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+
+                             <!-- SPACE -->
+                             <tr><td style="padding-top: 13px; background-color: #000000;" valign="top"></td></tr>
+
+                            <!-- DISCLAIMER LINE 4 -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    <span style="color: #ffffff" class="appleLinkswhite">Apple, App Store and Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries.</span>
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+
+                             <!-- SPACE -->
+                             <tr><td style="padding-top: 12px; background-color: #000000;" valign="top"></td></tr>
+
+                            <!-- DISCLAIMER LINE 5 -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Muli, Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    Google Play and the Google Play logo are trademarks of Google LLC.
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 14px; background-color: #000000;" valign="top"></td></tr>
+
+
+                             <!-- DISCLAIMER LINE 6 EMAIL -->
+                             <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    <span style="color: #ffffff" class="appleLinkswhite">To ensure you receive your GMC emails, please add <a description="F_ADD_ADDY" CAT1="My_GMC_Team_Email" CAT2="Your_GMC_Team@emails.GMC.com" href="mailto:Your_GMC_Team@emails.GMC.com" style="color: #ffffff;">Your_GMC_Team@emails.GMC.com</a> to your Address Book.</span>
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 16px; background-color: #000000;" valign="top"></td></tr>
+
+                            <!-- DISCLAIMER LINE 6.2 EMAIL -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    You are receiving this email advertisement because you are a valued GMC owner.
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 10px; background-color: #000000;" valign="top"></td></tr>
+                                                        
+                            <!-- DISCLAIMER LINE 7 BUTTONS-->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    <span style="color: #ffffff" class="appleLinkswhite"><a description="F_UNSUB" CAT1="Footer" CAT2="GM_Unsubscribe" href="https://www.gmcontactpreferences.com/Controller?email=<DI_EMAIL ENCRYPT='TRUE'/>" style="color: #ffffff;">Unsubscribe</a> | <a description="F_PRIVACY" CAT1="Footer" CAT2="Copyright_&_Trademark" href="http://www.gm.com/copyright-trademark.html" style="color: #ffffff;">Copyright & Trademark</a> | <a description="F_COPYRIGHT" CAT1="Footer" CAT2="GM_Privacy_Statement" href="http://www.gm.com/privacy-statement.html" style="color: #ffffff;">GM Privacy Statement</a></span>
+                                </td>
+
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 20px; background-color: #000000;" valign="top"></td></tr>
+                            <!-- DISCLAIMER LINE 8 -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    <span style="color: #ffffff" class="appleLinkswhite">GMC | 100 Renaissance Center | 482.A00.MAR | Detroit, MI 48265 | 1-800-462-8782</span>
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 10px; background-color: #000000;" valign="top"></td></tr>
+                            <!-- DISCLAIMER LINE 10 -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                    The marks of General Motors, its divisions, slogans, emblems, vehicle model names, vehicle body designs and other marks appearing in this document are the trademarks and/or service marks of General Motors, its subsidiaries, affiliates or licensors.
+                                </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 10px; background-color: #000000;" valign="top"></td></tr>
+                            <!-- DISCLAIMER LINE 10 -->
+                            <tr>
+                                <!-- PADDING LEFT DISCLAIMER-->
+                                <td style="padding-left: 30px;" valign="top" class="padding_disclaimer_left_mobile"></td>
+                                <!-- COPY -->
+                                <td valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #ffffff; line-height: 1.2;">
+                                &copy;2020 General Motors. All Rights Reserved. </td>
+                                <!-- PADDING RIGHT DISCLAIMER-->
+                                <td style="padding-right: 30px;" valign="top" class="padding_disclaimer_right_mobile"></td>
+                            </tr>
+                            <!-- SPACE -->
+                            <tr><td style="padding-top: 97px; background-color: #000000;" valign="top"></td></tr>
+
+                        </table>
+                    </td>
+                </tr>
+
+						</td></tr>
+                <!-- FOOTER END -->
+
+                    <!-- PARENT TABLE END -->
+                </table>     
+            </td>           
+        </tr>
+    </table>
+
+</body>
+
+</html>
+
+
+
+
